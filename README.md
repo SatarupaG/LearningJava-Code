@@ -1,6 +1,6 @@
 # LearningJava-Code
 
-This repository hosts the course lectures, assignments and assignment solution source codes for "LearningJava" course. The course is primarily aimed at begineers with little or no knowledge of java.
+This repository hosts the course lectures, assignment, assignment solution and source codes for "LearningJava" course. The course is primarily aimed at begineers with little or no knowledge of java.
 
 Special Note: 
 ---------------
